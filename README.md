@@ -1,9 +1,9 @@
 
-#Getting and Cleaning Data - Course Project Week4
+# Getting and Cleaning Data - Course Project Week4
 
 Repository contains the R code and documentation files for the  Getting and Cleaning data course.
 
-###Dataset used http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+### Dataset used http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ### Code explaination
 Code uses the data present in different files present in the 'UCI HAR Dataset' folder. 
